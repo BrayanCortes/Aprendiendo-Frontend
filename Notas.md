@@ -68,4 +68,12 @@ a: corresponde a un ancla o enlace a una url interna o externa del documento.
 img: con esta etiqueta podemos enlazar imágenes en el documento.
 figure: le da un contexto semántico a las imágenes.
 
+anatomia de etiquetas: 
+
+![image](https://user-images.githubusercontent.com/101487602/159069392-ae4de200-d369-4126-bc03-0d3de1f75794.png)
+
+algunas etiquetas llevan etiqueta de cierre porque llevan un contenido adentro en este caso la etiqueta de link, dice a que pagina nos llevara el link.la parte que esta entre la etiqueta de apertura y cierre se le conoce como contenido.
+
+el atributo puede ser pasivo que solo lleva una letra o palabra y atributos compuestos que llevan el nombre y el valor del atributo.
+
 
