@@ -12,4 +12,5 @@ Container:
     
     Footer:Es el final de la pagina web donde se pone el email de contacto o los creadores y el año de creacion de la misma.
 
+![imagen text]("Anatomia-web.png")
     
