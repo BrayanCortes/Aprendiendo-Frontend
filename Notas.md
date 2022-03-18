@@ -13,6 +13,11 @@ Container:
     Footer:Es el final de la pagina web donde se pone el email de contacto o los creadores y el año de creacion de la misma.
 
 Poniendo imagen:
+
 ![Anatomia-web](https://user-images.githubusercontent.com/101487602/159049844-e889270e-4638-4ed0-bf8c-2ad850082e8f.PNG)
 
+La paginas principal del html debe llamarse index que es lo que se encontrara cuando las busquen.
 
+identar bien el html para que se pueda leer de manera mas sencilla
+
+con meta name description, content podemos poner la descripcion de la pagina web para cuando la busquen en el navegador sea mas sencillo de saber que hay en la pagina web
