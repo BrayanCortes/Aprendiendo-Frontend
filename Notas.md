@@ -131,5 +131,5 @@ la etiqueta de source se usa para poner los diferentes formatos, lo que se hace 
 ![image](https://user-images.githubusercontent.com/101487602/159078171-d09ea88b-1683-4550-9e7f-18d980a21aa6.png)
 
 
-Crome respeta la jerarquia por lo que siempre escoge el de mas arriba siempre y cuando entienda ese tipo de formato
+Chrome respeta la jerarquia por lo que siempre escoge el de mas arriba siempre y cuando entienda ese tipo de formato
 
