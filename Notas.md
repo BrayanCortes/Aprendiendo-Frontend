@@ -21,3 +21,51 @@ La paginas principal del html debe llamarse index que es lo que se encontrara cu
 identar bien el html para que se pueda leer de manera mas sencilla
 
 con meta name description, content podemos poner la descripcion de la pagina web para cuando la busquen en el navegador sea mas sencillo de saber que hay en la pagina web
+
+en html hay 2 tipos de etiquetas:
+
+1.etiquetas contenedoras:Son las que llevan mas etiquetas adentro y ayudan a generar la estructura como se vio en la anatomia eje: Header,main,footer,div
+
+2.etiquetas contenedoras:Son las que llevan lo que se renderiza en la paginas, imagenes, texto, videos. ej: h1
+
+existen 6 tipos y tamaños de titulo del h1 al h6
+
+la etiqueta a sirve para los links
+
+ETIQUETAS MAS USADAS HTML:
+Fuente:platzi.com
+
+article: diferencia partes del contenido que pueden vivir por sí mismas.
+
+nav: para hacer menús de navegación.
+
+aside: contenido menos relevante, como publicidad, etc.
+section: sirve para diferenciar las secciones principales del contenido.
+
+header: cabecera del documento.
+
+footer: pie de página del documento.
+
+h1 - h6: títulos de nuestro sitio web.
+
+table: tablas de contenidos, similar a la estructura de las hojas de calculo.
+
+ul y ol: listas de items.
+
+div: cualquier división para organizar el contenido.
+
+h1 a h6: son etiquetas para indicar títulos con un estilo que destaca del resto.
+
+article: es la parte de nuestro contenido que puede vivir por sí mismo. Pueden haber tantos artícle como proyectos o eventos tenga nuestro portafolio.
+
+p: define el texto de un párrafo.
+
+small: aplica una apariencia de texto reducido en tamaño.
+strong: aplica al texto un formato de negritas.
+
+a: corresponde a un ancla o enlace a una url interna o externa del documento.
+
+img: con esta etiqueta podemos enlazar imágenes en el documento.
+figure: le da un contexto semántico a las imágenes.
+
+
