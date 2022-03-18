@@ -122,5 +122,11 @@ el figure sirve para acomodar bien la imgaen y el figcaption sirve para poner un
 
 VIDEOS
 
+con la etiqueta video, donde dice src se pone el video el cual debe estar dentro del proyecto para que se reproduzca, no sirve un link, tambien tiene atributos como controls los cuales dan los controles para ver un video como lo son, play,adelantar,la barra de duracion y el tiempo de duracion, tambien hay otro que se llama preload, este preload ayuda a que el video se renderize cuando se empieza a cargar la pagina esto ayuda a que no existan tiempos de espera muy altos.
 
+dentro del src podemos poner lo siguiente como ejemplo #t=10,60 esto lo que significa es que el video empezara a reproducirse en el segun 10 y se pausara automatico en el segundo 60.
+
+la etiqueta de source se usa para poner los diferentes formatos, lo que se hace es que se quita el src de video y se pega en source con los diferentes formatos de video, en la etiqueta de video solo dejamos los atributos como controls o preload, pero el src se pone en source.
+
+Crome respeta la jerarquia por lo que siempre escoge el de mas arriba siempre y cuando entienda ese tipo de formato
 
