@@ -76,4 +76,19 @@ algunas etiquetas llevan etiqueta de cierre porque llevan un contenido adentro e
 
 el atributo puede ser pasivo que solo lleva una letra o palabra y atributos compuestos que llevan el nombre y el valor del atributo.
 
+CONTENIDO MULTIMEDIA HTML:
+
+Tipos de imagen:
+
+existen 2 tipos de imagenes, lossy vs lossless
+
+con perdida y sin perdida esto hay que tenerlo en cuenta porque si usamos imagenes sin perdida nuestra pagina web se va a abrir muy lento por lo que daremos muy mala experiencia a los usuarios
+
+Lossless
+
+los formatos de imagen sin perdida capturan todos los datos de su archivo original, No se pierde nada del archivo original, foto o obra de arte, de ahi el termino "Sin perdida". el archivo puede estar comprimido, pero todos los formatos sin perdida podran recontruir su imagen a su estado original.No se pierde calidad
+
+Lossy
+
+Los formatos de imagen con perdida se aproximan a su imagen original por ejemplo, una imagen con perdida podria reducir la cantidad de colores en su imagen o analizar la imagen en busca de datos innecesarios,Esto reducira el tamano del archivo auqnue pierda calidad de la imagen.
 
