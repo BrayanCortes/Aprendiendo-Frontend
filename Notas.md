@@ -108,3 +108,16 @@ Para optimizar imagenes utilizar:
     Tiny png que mejora el tamaño de las imagenes
 
     Verexif que retira metadatos de las imagenes
+
+PONER IMAGENES EN HTML
+
+Etiqueta img:
+
+cuando usamos la etiqueta img en html esta nos pide un src que significa una fuente de imagen, osea de donde va a traer esa imagen y un alt que sirve para cuendo la imagen no cargue dar una descripcion de lo que se veria, sirve para el tema de accesibilidad.
+
+
+Etiqueta figure:
+
+
+
+
