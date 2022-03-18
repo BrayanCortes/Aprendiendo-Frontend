@@ -128,5 +128,8 @@ dentro del src podemos poner lo siguiente como ejemplo #t=10,60 esto lo que sign
 
 la etiqueta de source se usa para poner los diferentes formatos, lo que se hace es que se quita el src de video y se pega en source con los diferentes formatos de video, en la etiqueta de video solo dejamos los atributos como controls o preload, pero el src se pone en source.
 
+![image](https://user-images.githubusercontent.com/101487602/159078171-d09ea88b-1683-4550-9e7f-18d980a21aa6.png)
+
+
 Crome respeta la jerarquia por lo que siempre escoge el de mas arriba siempre y cuando entienda ese tipo de formato
 
