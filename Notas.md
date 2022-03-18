@@ -96,3 +96,15 @@ Lossy
 
 Los formatos de imagen con perdida se aproximan a su imagen original por ejemplo, una imagen con perdida podria reducir la cantidad de colores en su imagen o analizar la imagen en busca de datos innecesarios,Esto reducira el tamano del archivo auqnue pierda calidad de la imagen.
 
+
+Optimizando imagenes
+
+Tamaño optimo de peso de una imagen en un proyecto web:
+
+Tamaño promedio: de entre 70KB y 100KB
+
+Para optimizar imagenes utilizar:
+
+    Tiny png que mejora el tamaño de las imagenes
+
+    Verexif que retira metadatos de las imagenes
