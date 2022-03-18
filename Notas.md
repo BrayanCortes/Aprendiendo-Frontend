@@ -80,6 +80,10 @@ CONTENIDO MULTIMEDIA HTML:
 
 Tipos de imagen:
 
+![image](https://user-images.githubusercontent.com/101487602/159071513-bd68758c-fe44-4382-b795-3368ea92252e.png)
+
+
+
 existen 2 tipos de imagenes, lossy vs lossless
 
 con perdida y sin perdida esto hay que tenerlo en cuenta porque si usamos imagenes sin perdida nuestra pagina web se va a abrir muy lento por lo que daremos muy mala experiencia a los usuarios
