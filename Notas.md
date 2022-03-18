@@ -118,6 +118,6 @@ cuando usamos la etiqueta img en html esta nos pide un src que significa una fue
 
 Etiqueta figure:
 
-
+el figure sirve para acomodar bien la imgaen y el figcaption sirve para poner una descripcion de la imagen justo debajo para que las personas sepan que es eso, incluso se puede podern el autor de la imagen o de la pagina web.
 
 
