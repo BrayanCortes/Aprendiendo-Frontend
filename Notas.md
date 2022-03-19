@@ -147,6 +147,17 @@ autocomplete lo que hace es que le dice al navegador que si ya tiene esos datos 
 
 require lo que hace es que los inputs que tengan este atributo no se pueden enviar en blanco, si o si es necesario pasarles informacion para poder hacer submit.
 
+SELECT
+
+el select es para crear listas en las que se debe hacer scroll
+es como el chekbox de java, es una lista desplegable con la cual podemos seleccionar alguna opcion.Select no es la mejor practica para hacer esto para eso existe list y datalist.
+
+con el list y datalist hacemos lo mismo que el select pero en este caso tambien nos deja escribir por si hay muchas opciones ponemos las letras iniciales de la que queremos y acorta la lista.
+
+Etiqueta button--->claseButton
+
+input es mejor solo usarlo para formularios, input submit, y la etiqueta de boton para cualquier tipo de boton que se necesite en el proyecto.
+
 
 
 
