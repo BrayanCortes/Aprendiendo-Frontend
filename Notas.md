@@ -135,6 +135,8 @@ Chrome respeta la jerarquia por lo que siempre escoge el de mas arriba siempre y
 
 ------FORMULARIOS E INPUT--------
 
+con el input primero se crea un label, en el for del label ponemos el nombre del atributo y en el id del input debemos poner el mismo nombre que pusimos en el label.mirar claseForms index.html para entender mejor, se hizo con nombre.
+
 
 
 
