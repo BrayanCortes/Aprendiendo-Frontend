@@ -133,3 +133,8 @@ la etiqueta de source se usa para poner los diferentes formatos, lo que se hace 
 
 Chrome respeta la jerarquia por lo que siempre escoge el de mas arriba siempre y cuando entienda ese tipo de formato
 
+------FORMULARIOS E INPUT--------
+
+
+
+
