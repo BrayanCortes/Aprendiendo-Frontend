@@ -191,6 +191,14 @@ max y min sirven para el responsvie tambien sirve para solucionar problemas de o
 
 POSITION
 
+
+![image](https://user-images.githubusercontent.com/101487602/159171055-2b1add17-2254-4bb0-ba30-98a903bed475.png)
+
+RETO DUPLICAR LO DE LA IMAGEN.
+
+![image](https://user-images.githubusercontent.com/101487602/159171071-6ecee5d7-9942-418d-95a2-8c37abe111fa.png)
+
+
 Todas las etiquetas html vienen por defecto con la posicion static osea se quedan donde tu las pones.
 
 absolute:
