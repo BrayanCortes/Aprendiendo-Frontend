@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+main{
+    width: 100%;
+    height: 500px;
+    border: 10px solid gray;
+    padding: 20px 35px;
+}
+/*Padding -->Primer digito 20px es para arriba y abajo
+el segundo es para derecha e izquierda, si solo pongo 1 le aplica el mismo a todos lados*/
