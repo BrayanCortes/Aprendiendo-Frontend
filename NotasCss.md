@@ -202,3 +202,13 @@ RETO DUPLICAR LO DE LA IMAGEN.
 Todas las etiquetas html vienen por defecto con la posicion static osea se quedan donde tu las pones.
 
 absolute:
+
+Display-----------
+
+display inblock lo que hace es que la etiqueta ocupa todo el espacio frente a ella
+
+display in line lo que hace es que la etiqueta ocupa solo lo que necesita y deja el resto libre para otras etiquetas, a los elementos in line no se les puede agregar ni margin padding top o botom
+
+pero en los elementos de inlineblock si pueden, combina los mejor de los 2.
+
+RETO HACER UN LAYOUT COMO EL DE LA IMAGEN:
