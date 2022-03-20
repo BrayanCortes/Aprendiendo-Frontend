@@ -236,3 +236,7 @@ flexgrow: hace crecer el item que tenga la regla y es responsive
 Variables o custom properties:mirar la claseVariables alla hay comentarios de como hacerlo.
 
 
+FONTS Y WEB FONTS
+
+Fuente genericas ya instaladas y seteadas en tu pc y navegador:
+
