@@ -149,3 +149,29 @@ Combinador Hijo directo: se lee a la etiqueta parrafo que sea hija directa de un
 }
 
 Combinador descendiente: es la que hemos estado usando siempre las mas basica de todas.
+
+
+MEDIDAS ABSOLUTAS VS MEDIDAS RELATIVAS
+
+Cuando se hable de medidas absolutas se habla en pixeles o px estas no cambian
+
+medidas relativas son con porcentaje o las demas que veremos en la tabla estas cambian dependiendo del dispostivo donde se vean.
+
+el responsive se hace con medida reltaivas
+
+medida relativa em:es un acronimo de elemento y lo que hace es que tomara el tamaño de fuente que tiene el padre por defecto se debe usar con cuidado ya que puede ocasionar problemas uy grandes si no se llaman las medidas con cuidado.
+
+Medida relativa rem:siempre va a tener referencia al estilo que tenga el root o la etiqueta root del proyecto, osea el html y el navegador por defecto a la etiqueta html le agrega un font de 16px, rem es mejor y menos confuso que el em.
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+tanto el selector universal como el html siempre deben ir en todas las hojas de estilos de un proyecto de la forma en la que esta ahi para poder manejar el rem de una manera sencilla.
+
