@@ -100,7 +100,7 @@ Orden de declaracion
 
     En el cuadro se tienen numeros de izquierda a derecha donde izquierda es mas importante y derecha menos importante.
     
-    ![image](https://user-images.githubusercontent.com/101487602/159144440-9e7471a7-4ac3-4a20-92b4-ff692d740d49.png)
+  ![image](https://user-images.githubusercontent.com/101487602/159144440-9e7471a7-4ac3-4a20-92b4-ff692d740d49.png)
 
 
 3.Orden en las fuentes
