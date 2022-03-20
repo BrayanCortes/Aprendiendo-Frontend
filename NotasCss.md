@@ -56,4 +56,19 @@ ANATOMIA DE UNA REGLA EN CSS
 ![image](https://user-images.githubusercontent.com/101487602/159143782-0964b483-6697-4476-9112-043878408dbb.png)
 
 
+MODELO DE CAJA
+
+Tiene varios estilos que son
+
+Margin:espacio de la caja hacia afuera.
+
+Border:
+
+Padding:Espacio de la caja hacia adentro.
+
+Content:Texto,img,video.
+
+se puede jugar con el width,height, y dependiendo la posicion con el left,bottom,top o right. mirar la imagen acontinuacion para entender mejor
+
+
 
