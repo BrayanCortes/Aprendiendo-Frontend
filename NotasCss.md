@@ -212,3 +212,5 @@ display in line lo que hace es que la etiqueta ocupa solo lo que necesita y deja
 pero en los elementos de inlineblock si pueden, combina los mejor de los 2.
 
 RETO HACER UN LAYOUT COMO EL DE LA IMAGEN:
+
+![image](https://user-images.githubusercontent.com/101487602/159171767-07cfe3de-261f-4d8e-b73e-c0a0c9052c26.png)
