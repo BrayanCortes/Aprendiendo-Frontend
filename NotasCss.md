@@ -45,3 +45,6 @@ Pseudo elemento
 Se llaman con :: no como las pseudo clases que se llaman solo con :
 
 el pseudo elemento after siver para poner algo despues del elemento, se usa con content
+
+![image](https://user-images.githubusercontent.com/101487602/159143725-6d212c32-550f-4586-bc4d-7844529fdb10.png)
+
