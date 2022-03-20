@@ -70,5 +70,9 @@ Content:Texto,img,video.
 
 se puede jugar con el width,height, y dependiendo la posicion con el left,bottom,top o right. mirar la imagen acontinuacion para entender mejor
 
+![image](https://user-images.githubusercontent.com/101487602/159143841-12e11bd4-e042-40bd-8323-c44958ecf3f6.png)
+
+![image](https://user-images.githubusercontent.com/101487602/159143847-bba1721e-62ef-43fd-8f2f-0c8e2dca0b15.png)
+
 
 
