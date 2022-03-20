@@ -98,6 +98,8 @@ Orden de declaracion
 
 2.Especificidad
 
+    En el cuadro se tienen numeros de izquierda a derecha donde izquierda es mas importante y derecha menos importante.
+
 3.Orden en las fuentes
 
 
