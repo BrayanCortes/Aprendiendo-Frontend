@@ -211,6 +211,23 @@ display in line lo que hace es que la etiqueta ocupa solo lo que necesita y deja
 
 pero en los elementos de inlineblock si pueden, combina los mejor de los 2.
 
-RETO HACER UN LAYOUT COMO EL DE LA IMAGEN:
+RETO HACER UN LAYOUT COMO EL DE LA IMAGEN con css vanila y despues hacerlo con flexbox:
 
 ![image](https://user-images.githubusercontent.com/101487602/159171767-07cfe3de-261f-4d8e-b73e-c0a0c9052c26.png)
+
+
+display flex: es flexible y deja hacer lo de inline block mirar clase flex,clase display.
+
+con flex-direction podemos cambiar la posicion de columasn y filas.
+
+flex-wrap:wrap sirve para que se autoacomode el contenido sin importar que tan grande sea el contenedor.
+
+justify content:center: ayuda a alinear el contenido de forma horizontal.tambien exitste el space evenly que deja un espacio entre cada uno de los objetos, incluyendo la margenes.
+
+
+flexbox layouts:
+
+Todos los contenedores a los cual no se les ponga un order se van a pasar automaticamente a ala izquierda y los que tenga un order empiezan del primero hacia la derecha.
+
+flexgrow: hace crecer el item que tenga la regla y es responsive
+
