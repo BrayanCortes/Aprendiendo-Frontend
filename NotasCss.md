@@ -19,8 +19,13 @@ para que los cambios del css se vean reflejados en el html primero tengo que gua
 
 Pseudo clases y pseudo elementos
 
+BEM
+
 Aprender bem que es el que ayuda a nombrar clases de manera sencilla siguiendo unas reglas globales.
 
+![image](https://user-images.githubusercontent.com/101487602/159143700-c77873c2-bec7-4bb8-aca3-a700d8930438.png)
+
+-------------------------------------------------------------------------------------------------------------
 con list-style=none podemos quitar los numeros o guiones de las listas.
 
 padding es un espacio interno en un contenedor.
