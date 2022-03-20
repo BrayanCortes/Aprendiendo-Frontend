@@ -1,0 +1,15 @@
+h2 + p{
+    color: red;
+}
+
+h2 ~ p{
+    color:blue
+}
+
+div > p{
+    color: blueviolet;
+}
+
+div p{
+    color: red;
+}
