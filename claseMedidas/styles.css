@@ -9,6 +9,7 @@
 .text-container div {
     font-size: 1.5em;
 }*/
+/*
 * {
     box-sizing: border-box;
     margin: 0;
@@ -20,4 +21,25 @@ html {
 
 p{
   font-size: 1.6rem;  
+}*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+section{
+    width: 80vw;
+    min-width: 320px;
+    max-width: 500px;
+    height: 500px;
+    background-color: red;
+    margin: 0 auto;
 }

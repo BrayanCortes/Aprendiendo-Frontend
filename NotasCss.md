@@ -166,6 +166,8 @@ medida relativa em:es un acronimo de elemento y lo que hace es que tomara el tam
 
 Medida relativa rem:siempre va a tener referencia al estilo que tenga el root o la etiqueta root del proyecto, osea el html y el navegador por defecto a la etiqueta html le agrega un font de 16px, rem es mejor y menos confuso que el em.
 
+---------------------------------------------------------------
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -178,3 +180,13 @@ html {
 
 tanto el selector universal como el html siempre deben ir en todas las hojas de estilos de un proyecto de la forma en la que esta ahi para poder manejar el rem de una manera sencilla.
 
+----------------------------------------------------------------
+
+vh y vw, esto lo que hace es que se ocupe un porcenaje de la pantalla dependiendo que valor le demos, si ponemos width 50vw ocupara el 50% de la pantalla.
+
+margin 0 auto:agrega un margin automatico de izquierda a derecha pero no de top y bottom, este margin centra de manera automatica el container donde lo pongamos
+
+max y min sirven para el responsvie tambien sirve para solucionar problemas de overflow: esto quiere decir que tenemos mas texto de lo que puede tener el container.
+
+
+POSITION
