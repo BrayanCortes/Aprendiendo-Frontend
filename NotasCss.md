@@ -153,6 +153,9 @@ Combinador descendiente: es la que hemos estado usando siempre las mas basica de
 
 MEDIDAS ABSOLUTAS VS MEDIDAS RELATIVAS
 
+![image](https://user-images.githubusercontent.com/101487602/159146191-13110974-7d18-4fc2-8cb1-26c7770bc98e.png)
+
+
 Cuando se hable de medidas absolutas se habla en pixeles o px estas no cambian
 
 medidas relativas son con porcentaje o las demas que veremos en la tabla estas cambian dependiendo del dispostivo donde se vean.
