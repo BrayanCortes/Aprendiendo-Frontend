@@ -48,3 +48,12 @@ el pseudo elemento after siver para poner algo despues del elemento, se usa con 
 
 ![image](https://user-images.githubusercontent.com/101487602/159143725-6d212c32-550f-4586-bc4d-7844529fdb10.png)
 
+
+ANATOMIA DE UNA REGLA EN CSS
+
+![image](https://user-images.githubusercontent.com/101487602/159143769-c99e1f44-920d-4c97-be58-62144ede5143.png)
+
+![image](https://user-images.githubusercontent.com/101487602/159143782-0964b483-6697-4476-9112-043878408dbb.png)
+
+
+
