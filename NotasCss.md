@@ -231,3 +231,8 @@ Todos los contenedores a los cual no se les ponga un order se van a pasar automa
 
 flexgrow: hace crecer el item que tenga la regla y es responsive
 
+-----------------------------------------------
+
+Variables o custom properties:mirar la claseVariables alla hay comentarios de como hacerlo.
+
+
