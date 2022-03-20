@@ -240,3 +240,8 @@ FONTS Y WEB FONTS
 
 Fuente genericas ya instaladas y seteadas en tu pc y navegador:
 
+Se pueden buscar fuentes en google fonts
+
+![image](https://user-images.githubusercontent.com/101487602/159173659-a39d960a-2ad3-497a-a617-c398d5dd5817.png)
+
+
