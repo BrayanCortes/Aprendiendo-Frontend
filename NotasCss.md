@@ -74,5 +74,11 @@ se puede jugar con el width,height, y dependiendo la posicion con el left,bottom
 
 ![image](https://user-images.githubusercontent.com/101487602/159143847-bba1721e-62ef-43fd-8f2f-0c8e2dca0b15.png)
 
+COMO RESETEAR LOS ESTILOS QUE SETEA EL NAVEGADOR?:
 
+Selector universal *
+
+El scroll se puede quitar con el boxsizing:suma el padding con el width del elemento por lo que quita el espacio del elemento para no hacer crecer el borde y generar el scroll.
+
+lo que se puso en selectro universal debe ponerse siempre en todas las hojas de estilo para quitar los valores por defecto del navegador.
 
