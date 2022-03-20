@@ -82,3 +82,23 @@ El scroll se puede quitar con el boxsizing:suma el padding con el width del elem
 
 lo que se puso en selectro universal debe ponerse siempre en todas las hojas de estilo para quitar los valores por defecto del navegador.
 
+HERENCIA EN CSS
+
+html tiene un tamaño de fuente predefinida de 16 px y eso se puede cambiar en css mirar el styles de la claseHerencia.
+
+La herencia se puede romper, 
+
+Orden de declaracion
+
+1.Importancia
+    
+    Primero se cargan los estilos del navegador,luego nuestros estilos.
+    
+    El important si bien sirve es una mala practica no se deberia de usar a menos que se extrictamente necesario
+
+2.Especificidad
+
+3.Orden en las fuentes
+
+
+
