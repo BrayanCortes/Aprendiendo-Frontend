@@ -190,3 +190,7 @@ max y min sirven para el responsvie tambien sirve para solucionar problemas de o
 
 
 POSITION
+
+Todas las etiquetas html vienen por defecto con la posicion static osea se quedan donde tu las pones.
+
+absolute:
