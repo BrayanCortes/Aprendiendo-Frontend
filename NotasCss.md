@@ -117,21 +117,34 @@ No es bueno tener tanto id en el css es mejor que eso se deje para js, mejor tra
 
 COMBINADORES
 
+![image](https://user-images.githubusercontent.com/101487602/159145493-68473428-2683-40c2-9f03-583f24e829e9.png)
+
+
 Ayudan a tener una especificidad mucho mas alta para evitar el uso de ids
 
 
 h2 + p{
     color: red;
-} combinador hermano cercano o Adjacent Siblings--> Esto significa aplicale el color rojo a todas las etiquetas parrafo que esten cerca de un h2
+} 
+
+combinador hermano cercano o Adjacent Siblings--> Esto significa aplicale el color rojo a todas las etiquetas parrafo que esten cerca de un h2
+
 
 h2 ~ p{
     color:blue
-}Combinador hermano general o General Siblings-->esto quiere decir todos los hermanos que esten juntos identados osea que existan en la misma altura, mirar el ejemplo de claseCombinadores.
+}
+
+Combinador hermano general o General Siblings-->esto quiere decir todos los hermanos que esten juntos identados osea que existan en la misma altura, mirar el ejemplo de claseCombinadores.
+
 
 div > p{
     color: blueviolet;
-}Combinador Hijo directo: se lee a la etiqueta parrafo que sea hija directa de un div ponerle color morado.osea que si la etiqueta parrafo esta dentro de un div osea justo debajo del div sin nada que lo tape como una etiqueta secion o otro tipo de etiqueta contenedora aplicara la regla de css, si esto no es asi entonces no la aplicara, debe ser decendiente directo.
+}
+
+Combinador Hijo directo: se lee a la etiqueta parrafo que sea hija directa de un div ponerle color morado.osea que si la etiqueta parrafo esta dentro de un div osea justo debajo del div sin nada que lo tape como una etiqueta secion o otro tipo de etiqueta contenedora aplicara la regla de css, si esto no es asi entonces no la aplicara, debe ser decendiente directo.
+
 
 .nav a{
     color: blue;
-}Combinador descendiente: es la que hemos estado usando siempre las mas basica de todas.
+}
+Combinador descendiente: es la que hemos estado usando siempre las mas basica de todas.
