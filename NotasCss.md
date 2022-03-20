@@ -112,5 +112,10 @@ REGLAS DE CASCADA DEL NAVEGADOR
 
     es como mandamos a llamar los estilos, se mira de arriba a abajo, se aplican los estilos que esten hasta abajo osea los ultimos y por tanto reescribir los estilos que pusimos arriba.Tambien afecta en donde llamamos nuestra hoja de estilos en el html con el link.
 
+Los id son unicos  solo los puede tener un elemento las clases son genericas y las pueden tener varios elementos
+
+en el editor de texto solo con pararse encima de una regla de css vemos Specificity, entre mas puntaje tenga tenga mas arriba en el orden esta.
+
+No es bueno tener tanto id en el css es mejor que eso se deje para js, mejor trabajar en clases
 
 
