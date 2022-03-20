@@ -1,0 +1,19 @@
+/*por elemento*/
+p{
+    color: brown;
+    font-size: 30px;
+}
+
+/*Esto es un comentario en css*/
+/*por Class*/
+.parrafo{
+    color: aqua;
+    font-size: 15px;
+}
+
+/* por ID */
+
+#TituloPrincipal{
+    color: violet;
+    font-size: 90px;
+}
