@@ -103,6 +103,11 @@ Orden de declaracion
   ![image](https://user-images.githubusercontent.com/101487602/159144440-9e7471a7-4ac3-4a20-92b4-ff692d740d49.png)
 
 
+REGLAS DE CASCADA DEL NAVEGADOR
+
+![image](https://user-images.githubusercontent.com/101487602/159144475-88b59ef1-8baa-4025-b520-dea911738dfc.png)
+
+
 3.Orden en las fuentes
 
 
