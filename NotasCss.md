@@ -9,7 +9,8 @@ se pueden agregar estilos por etiqueta,clase o id
 
 para que los cambios del css se vean reflejados en el html primero tengo que guardar el html
 
-![image](https://user-images.githubusercontent.com/101487602/159144952-1a2c9cad-9894-4515-81ec-404c5754d32a.png)
+![image](https://user-images.githubusercontent.com/101487602/159144976-aa0440ed-582e-45c9-bd7b-d394576ebe65.png)
+
 
 
 Pseudo clases y pseudo elementos
