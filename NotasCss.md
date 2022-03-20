@@ -110,5 +110,7 @@ REGLAS DE CASCADA DEL NAVEGADOR
 
 3.Orden en las fuentes
 
+    es como mandamos a llamar los estilos, se mira de arriba a abajo, se aplican los estilos que esten hasta abajo osea los ultimos y por tanto reescribir los estilos que pusimos arriba.Tambien afecta en donde llamamos nuestra hoja de estilos en el html con el link.
+
 
 
