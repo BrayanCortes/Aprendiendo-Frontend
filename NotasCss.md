@@ -147,4 +147,5 @@ Combinador Hijo directo: se lee a la etiqueta parrafo que sea hija directa de un
 .nav a{
     color: blue;
 }
+
 Combinador descendiente: es la que hemos estado usando siempre las mas basica de todas.
