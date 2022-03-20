@@ -1,0 +1,30 @@
+.main-nav{
+    margin-top: 10px;
+    list-style: none; /*Quita el estilo de la lista los puntos o numeros*/
+    padding-left: 0px;
+    background-color: blue;
+}
+
+.main-nav__item{
+    display: inline-block;
+
+}
+
+.main-nav__item a{
+    color: whitesmoke;
+    padding: 5px;
+    border-radius: 2px ;
+    text-decoration: none;
+}
+
+.main-nav__item a:hover{
+    color: red;
+}
+
+.main-nav__item a:active{
+    color: black;
+}
+
+.main-nav__item a::after{
+    content: " | ";
+}
